@@ -1,0 +1,9 @@
+IWad
+{
+	Name = "Wolfenstein: Blade of Agony"
+	AutoName = "WolfenDoom.BoA.v3"
+	Game = "Doom"
+	Config = "BoA"
+	StartupType = "Hexen"
+	BannerColors = "11273C", "11273C"
+}
