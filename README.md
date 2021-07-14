@@ -1,6 +1,6 @@
 # Wolfenstein: Blade of Agony - Kreisau Circle Edition
 Welcome to the repository! This is the original 3.0 version of the game that was censored by the original due to a combination of reasons, all amounting to censorship:
-- Cyberterrorists (ie. Woketivists and radicals)
+- Cyberterrorists (ie. Woketivists and other radicals)
 - Government pressure (ie. Federal Office for the Protection of the Constitution [FOftPotC])
 - Harassment and coercion from their own website host.
 
